@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kadir</h1>
+
 - 🌱 I’m currently learning JavaScript, ReactJS by Kodluyoruz bootcamp.
 
 - 💬 Ask me about **React**
