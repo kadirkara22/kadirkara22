@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kadir</h1>
 
-- 🌱 I’m currently learning **JavaScript**, **ReactJS**, **NodeJS** by **Kodluyoruz** bootcamp.
+- 🌱 Building modern web applications with **JavaScript & ReactJS.**
 
-- 💬 Ask me about **React**
+- 💻 Improving my skills in backend development with **Java.**
+
+- 🛠️ Always learning, always building.
 
 - 📫 How to reach me **kadirkar2204@gmail.com**
 
